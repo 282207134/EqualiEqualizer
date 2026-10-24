@@ -1,0 +1,18 @@
+{
+  "device": "Android 15 API 35 · 750×1624",
+  "screenshotCount": 34,
+  "wifiAddress": "10.0.2.16",
+  "audioDurationSeconds": 32,
+  "equalizerAvailable": true,
+  "bassAvailable": true,
+  "spatialAvailable": true,
+  "journeys": [
+    "playlist CRUD and reorder",
+    "native audio playback",
+    "all audio panels",
+    "search",
+    "profile and recovery",
+    "persistence",
+    "Wi-Fi start/stop"
+  ]
+}
